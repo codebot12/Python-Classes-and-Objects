@@ -1,2 +1,3 @@
 # Python-Classes-and-Objects
-Questions and my solutions
+Basic questions related to Classes and Objects
+and solutions.
